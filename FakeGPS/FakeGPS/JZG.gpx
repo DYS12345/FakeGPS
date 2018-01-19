@@ -5,8 +5,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
     <wpt lat="39.983" lon="116.4935">
-        <name>chengdu</name>
+        <name>beijing</name>
         <cmt>太火鸟</cmt>
         <desc>太火鸟</desc>
     </wpt>
 </gpx>
+
